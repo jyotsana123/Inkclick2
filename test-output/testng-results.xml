@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-14T13:33:51 IST" name="Suite" finished-at="2022-12-14T13:34:44 IST" duration-ms="53539">
+    <groups>
+    </groups>
+    <test started-at="2022-12-14T13:33:51 IST" name="Registration" finished-at="2022-12-14T13:34:06 IST" duration-ms="15371">
+      <class name="rahulshettyacademy.InkclickTests.Registration">
+        <test-method is-config="true" signature="openWebsite()[pri:0, instance:rahulshettyacademy.InkclickTests.Registration@7db12bb6]" started-at="2022-12-14T13:33:51 IST" name="openWebsite" finished-at="2022-12-14T13:33:56 IST" duration-ms="5661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebsite -->
+        <test-method signature="SignUp()[pri:0, instance:rahulshettyacademy.InkclickTests.Registration@7db12bb6]" started-at="2022-12-14T13:33:56 IST" name="SignUp" finished-at="2022-12-14T13:34:06 IST" duration-ms="9638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUp -->
+      </class> <!-- rahulshettyacademy.InkclickTests.Registration -->
+    </test> <!-- Registration -->
+    <test started-at="2022-12-14T13:34:06 IST" name="Group" finished-at="2022-12-14T13:34:22 IST" duration-ms="15843">
+      <class name="rahulshettyacademy.InkclickTests.CreateGroup">
+        <test-method is-config="true" signature="openWebsite()[pri:0, instance:rahulshettyacademy.InkclickTests.CreateGroup@7161d8d1]" started-at="2022-12-14T13:34:06 IST" name="openWebsite" finished-at="2022-12-14T13:34:10 IST" duration-ms="3461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebsite -->
+        <test-method signature="group()[pri:0, instance:rahulshettyacademy.InkclickTests.CreateGroup@7161d8d1]" started-at="2022-12-14T13:34:10 IST" name="group" finished-at="2022-12-14T13:34:22 IST" duration-ms="12379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- group -->
+      </class> <!-- rahulshettyacademy.InkclickTests.CreateGroup -->
+    </test> <!-- Group -->
+    <test started-at="2022-12-14T13:34:22 IST" name="login" finished-at="2022-12-14T13:34:44 IST" duration-ms="22262">
+      <class name="rahulshettyacademy.InkclickTests.StudentLogin">
+        <test-method is-config="true" signature="openWebsite()[pri:0, instance:rahulshettyacademy.InkclickTests.StudentLogin@6bbe85a8]" started-at="2022-12-14T13:34:22 IST" name="openWebsite" finished-at="2022-12-14T13:34:27 IST" duration-ms="4523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebsite -->
+        <test-method signature="login()[pri:0, instance:rahulshettyacademy.InkclickTests.StudentLogin@6bbe85a8]" started-at="2022-12-14T13:34:27 IST" name="login" finished-at="2022-12-14T13:34:30 IST" duration-ms="3123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="openWebsite()[pri:0, instance:rahulshettyacademy.InkclickTests.StudentLogin@6bbe85a8]" started-at="2022-12-14T13:34:30 IST" name="openWebsite" finished-at="2022-12-14T13:34:35 IST" duration-ms="5420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebsite -->
+        <test-method signature="loginErrorValidation()[pri:0, instance:rahulshettyacademy.InkclickTests.StudentLogin@6bbe85a8]" started-at="2022-12-14T13:34:35 IST" name="loginErrorValidation" finished-at="2022-12-14T13:34:44 IST" duration-ms="9186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginErrorValidation -->
+      </class> <!-- rahulshettyacademy.InkclickTests.StudentLogin -->
+    </test> <!-- login -->
+  </suite> <!-- Suite -->
+</testng-results>
